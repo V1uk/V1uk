@@ -64,5 +64,4 @@ I am proud of my achievements and am excited to continue working on new projects
 
 ### STATS 
 [![Metrics](https://metrics.lecoq.io/V1uk?template=terminal&isocalendar=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&config.timezone=America%2FNew_York&config.display=columns&config.presets=%40V1uk)
-
 </div>
