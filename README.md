@@ -63,4 +63,4 @@ As a 22-year-old FullStack Developer, I have achieved significant success in my 
 I am proud of my achievements and am excited to continue working on new projects and products that will help me grow as a developer.
 
 ### STATS 
-![Metrics](https://metrics.lecoq.io/V1uk
+![Metrics](https://metrics.lecoq.io/V1uk)
