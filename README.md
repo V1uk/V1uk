@@ -63,10 +63,6 @@ As a 22-year-old FullStack Developer, I have achieved significant success in my 
 I am proud of my achievements and am excited to continue working on new projects and products that will help me grow as a developer.
 
 ### STATS 
-[![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V1uk&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Bryce's Github Stats](https://github-readme-stats.vercel.app/api?username=V1uk&include_all_commits=true&count_private=true&show_icons=true&theme=dark&custom_title=Bryce%27s%20GitHub%20Stats&ring_color=35AFEA)](https://github.com/anuraghazra/github-readme-stats)
-![](./github-metrics.svg)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=V1uk)](https://git.io/streak-stats)
-![Metrics](https://metrics.lecoq.io/V1uk)
+[![Metrics](https://metrics.lecoq.io/V1uk?template=terminal&isocalendar=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&config.timezone=America%2FNew_York&config.display=columns&config.presets=%40V1uk)
 
 </div>
