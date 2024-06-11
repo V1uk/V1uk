@@ -30,4 +30,5 @@ Styz is a highly customizable Discord bot offering automation, moderation, and s
 - Established strong online presence
 
 **STATS**
+
 ![Metrics](https://metrics.lecoq.io/V1uk)
