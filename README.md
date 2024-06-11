@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/V1uk?template=classic&base.indepth=true&isocalendar=1&followup=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York&config.display=columns)
+
 **Bryce, FullStack Developer**
 
 **About**
@@ -28,7 +30,3 @@ Styz is a highly customizable Discord bot offering automation, moderation, and s
 - Built successful Discord bot
 - Developed custom Second Life products
 - Established strong online presence
-
-**STATS**
-
-![Metrics](https://metrics.lecoq.io/V1uk?template=classic&base.indepth=true&isocalendar=1&followup=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York&config.display=columns)
