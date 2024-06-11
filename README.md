@@ -1,6 +1,6 @@
 <div align="center">
   
-## About
+  ## About
 Hello, I am Bryce a 22 year old FullStack Developer, I work on a range of projects ranging from Websites to Discord bots to other application projects.
 
 -------------------
@@ -64,4 +64,5 @@ I am proud of my achievements and am excited to continue working on new projects
 
 ### STATS 
 [![Metrics](https://metrics.lecoq.io/V1uk)
+
 </div>
