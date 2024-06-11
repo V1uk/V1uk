@@ -1,37 +1,24 @@
-<div align="center">
-  
-Here is a remade version of the text in a shorter and more professional format:
+# 💫 About Me:
+Hello, I am Bryce a 22 year old FullStack Developer, I work on a range of projects ranging from Websites to Discord bots to other application projects.<br><br>-------------------<br><br>### Styz Discord Bot<br><br>Styz is a highly customizable and feature-rich Discord bot that allows users to create and manage their own Discord servers. With Styz, you can automate tasks, moderate your server, and engage with your community in a variety of ways.<br><br>#### Features<br><br>* Customizable commands and responses<br>* Automated moderation tools<br>* Server management and configuration<br>* Integration with other services and platforms<br><br>-------------------<br><br>### Styz Second Life Products<br><br>Styz offers a range of products and services for Second Life users, including:<br><br>#### Nightclub<br><br>* Customizable nightclub designs and layouts<br>* Automation tools for DJs and event hosts<br>* Integration with other Second Life services and platforms<br><br>#### Auction<br><br>* Automated auction system for buying and selling items<br>* Customizable auction rules and settings<br>* Integration with other Second Life services and platforms<br><br>#### Other Products<br><br>* Virtual event management tools<br>* Customizable virtual goods and items<br>* Integration with other Second Life services and platforms<br><br>-------------------<br><br>### Success<br><br>As a 22-year-old FullStack Developer, I have achieved significant success in my career, including:<br><br>* Building a highly successful Discord bot that has been used by thousands of users<br>* Creating a range of custom products and services for Second Life users<br>* Developing a strong online presence and community through social media and GitHub<br><br>I am proud of my achievements and am excited to continue working on new projects and products that will help me grow as a developer.<br>
 
-**About Me**
-I'm Bryce, a 22-year-old FullStack Developer with a passion for creating innovative solutions. My expertise includes building websites, Discord bots, and other applications.
 
-**Contact**
-Reach out to me on:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Styz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/V1ukOfficial) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/V1uk_) 
 
-* Instagram: [https://www.instagram.com/v1ukofficial/](https://www.instagram.com/v1ukofficial/)
-* Twitter: [https://twitter.com/V1uk_](https://twitter.com/V1uk_)
-* Discord: [https://discordapp.com/users/962076477325729833](https://discordapp.com/users/962076477325729833)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=V1uk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=V1uk&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=V1uk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-**Skills**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=V1uk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-* Programming languages: Node.js, JavaScript, Python, C#
-* Frameworks: Express.js, DiscordJS
-* Databases: MongoDB, MySQL
-* Cloud platforms: AWS, Google Cloud, DigitalOcean
-* Tools: Docker, Portainer, Git, NPM
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=V1uk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-**Projects**
+---
+[![](https://visitcount.itsvg.in/api?id=V1uk&icon=2&color=0)](https://visitcount.itsvg.in)
 
-* Styz Discord Bot: A customizable and feature-rich Discord bot for automating tasks and moderating servers.
-* Second Life Products: Nightclub automation, auction system, and virtual event management tools.
-
-**Achievements**
-
-* Built a highly successful Discord bot used by thousands of users.
-* Created custom products and services for Second Life users.
-* Developed a strong online presence and community through social media and GitHub.
-
-**Stats**
-![Metrics](https://metrics.lecoq.io/V1uk?template=terminal&isocalendar=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&config.timezone=America%2FNew_York&config.display=columns&config.presets=%40V1uk)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
