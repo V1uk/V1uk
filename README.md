@@ -1,27 +1,37 @@
 <div align="center">
   
-## Bryce - FullStack Developer
+Here is a remade version of the text in a shorter and more professional format:
 
-Hello, I'm Bryce, a 22-year-old FullStack Developer with expertise in web development, Discord bots, and application projects. 
+**About Me**
+I'm Bryce, a 22-year-old FullStack Developer with a passion for creating innovative solutions. My expertise includes building websites, Discord bots, and other applications.
 
-### Contact
-- Instagram: [V1ukOfficial](https://www.instagram.com/v1ukofficial/)
-- Twitter: [V1uk_](https://twitter.com/V1uk_)
-- Discord: [Profile](https://discordapp.com/users/962076477325729833)
+**Contact**
+Reach out to me on:
 
-### Languages and Tools  
-I work with technologies such as Node.js, JavaScript, Python, C#, HTML5, Express.js, DiscordJS, Bootstrap, MongoDB, MySQL, Docker, AWS, Google Cloud, and more.
+* Instagram: [https://www.instagram.com/v1ukofficial/](https://www.instagram.com/v1ukofficial/)
+* Twitter: [https://twitter.com/V1uk_](https://twitter.com/V1uk_)
+* Discord: [https://discordapp.com/users/962076477325729833](https://discordapp.com/users/962076477325729833)
 
-### Styz Discord Bot
-Styz is a versatile Discord bot offering customizable commands, automated moderation, server management, and seamless integrations with various platforms.
+**Skills**
 
-### Styz Second Life Products
-Explore Styz's offerings for Second Life users, including Nightclub services, Auction systems, virtual event tools, goods customization, and cross-platform integration.
+* Programming languages: Node.js, JavaScript, Python, C#
+* Frameworks: Express.js, DiscordJS
+* Databases: MongoDB, MySQL
+* Cloud platforms: AWS, Google Cloud, DigitalOcean
+* Tools: Docker, Portainer, Git, NPM
 
-### Success
-Key achievements include creating popular Discord bots, delivering tailored solutions for Second Life users, and fostering a strong online community through social media and GitHub.
+**Projects**
 
-### STATS 
-Check out my [Metrics](https://metrics.lecoq.io/V1uk?template=terminal&amp;isocalendar=1&amp;followup=1&amp;base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&amp;base.indepth=false&amp;base.hireable=false&amp;base.skip=false&amp;isocalendar=false&amp;isocalendar.duration=half-year&amp;followup=false&amp;followup.sections=repositories&amp;followup.indepth=true&amp;followup.archived=true&amp;config.timezone=America%2FNew_York&amp;config.display=columns&amp;config.presets=%40V1uk).
+* Styz Discord Bot: A customizable and feature-rich Discord bot for automating tasks and moderating servers.
+* Second Life Products: Nightclub automation, auction system, and virtual event management tools.
+
+**Achievements**
+
+* Built a highly successful Discord bot used by thousands of users.
+* Created custom products and services for Second Life users.
+* Developed a strong online presence and community through social media and GitHub.
+
+**Stats**
+![Metrics](https://metrics.lecoq.io/V1uk?template=terminal&isocalendar=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&config.timezone=America%2FNew_York&config.display=columns&config.presets=%40V1uk)
 
 </div>
