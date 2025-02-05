@@ -54,7 +54,7 @@ Styz offers a range of products and services for Second Life users, including:
 
 ### Success
 
-As a 22-year-old FullStack Developer, I have achieved significant success in my career, including:
+As a 23-year-old FullStack Developer, I have achieved significant success in my career, including:
 
 * Building a highly successful Discord bot that has been used by thousands of users
 * Creating a range of custom products and services for Second Life users
