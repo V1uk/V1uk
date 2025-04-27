@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About
-Hello, I am Bryce a 22 year old FullStack Developer, I work on a range of projects ranging from Websites to Discord bots to other application projects.
+Hello, I am Bryce a 23 year old FullStack Developer, I work on a range of projects ranging from Websites to Discord bots to other application projects.
 
 -------------------
 
