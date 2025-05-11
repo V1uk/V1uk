@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as bot developer for a discord bot called Styz. I also do a lot of game developments on my spare time.<br>- 📚 I'm currently learning how to improve and also learning more Cybersecurity.<br>- ⚡ In my free time I walk, game, or spend time with my fiance.</p>
+<p align="left">I'm Bryce from New York and age 23.<br><br>- 🔭 I’m working as bot developer for a discord bot called Styz. I also do a lot of game developments on my spare time.<br>- 📚 I'm currently learning how to improve and also learning more Cybersecurity.<br>- ⚡ In my free time I walk, game, or spend time with my fiance.</p>
 
 ###
 
