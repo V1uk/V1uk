@@ -1,68 +1,27 @@
-<div align="center">
-  
-## About
-Hello, I am Bryce a 23 year old FullStack Developer, I work on a range of projects ranging from Websites to Discord bots to other application projects.
+# 💫 About Me:
+## About<br>Hello, I am Bryce a 23 year old FullStack Developer, I work on a range of projects ranging from Websites to Discord bots to other application projects.<br>-------------------<br><br>* Automated moderation tools<br>* Server management and configuration<br>* Integration with other services and platforms<br><br>-------------------<br><br>### Styz Second Life Products<br><br>Styz offers a range of products and services for Second Life users, including:<br><br>#### Nightclub<br><br>* Customizable nightclub designs and layouts<br>* Automation tools for DJs and event hosts<br>* Integration with other Second Life services and platforms<br><br>#### Auction<br><br>* Automated auction system for buying and selling items<br>* Customizable auction rules and settings<br>* Integration with other Second Life services and platforms<br><br>#### Other Products<br><br>* Virtual event management tools<br>* Customizable virtual goods and items<br>* Integration with other Second Life services and platforms<br><br>-------------------<br><br>### Success<br><br>As a 23-year-old FullStack Developer, I have achieved significant success in my career, including:<br><br>* Building a highly successful Discord bot that has been used by thousands of users<br>* Creating a range of custom products and services for Second Life users<br>* Developing a strong online presence and community through social media and GitHub<br><br>I am proud of my achievements and am excited to continue working on new projects and products that will help me grow as a developer.
 
 -------------------
 
-## Contact
-<a href="https://www.instagram.com/v1ukofficial/">![Instagram](https://img.shields.io/badge/V1ukOfficial-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/V1uk_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp; <a href="https://discordapp.com/users/962076477325729833"><img alt="Discord" src="https://img.shields.io/badge/Discord-525DDB?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qBjHmYCGjc) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/BryceGGs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/V1uk_) 
 
 -------------------
 
-### Languages and Tools  
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![DiscordJS](https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-%230072C6.svg?style=for-the-badge&logo=Portainer&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vult](https://img.shields.io/badge/vultr-%23039BE5.svg?style=for-the-badge&logo=vultr) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo/ubuntu&logoColor.white)
+# 💻 Tech Stack:
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 -------------------
 
-### Styz Discord Bot
-
-Styz is a highly customizable and feature-rich Discord bot that allows users to create and manage their own Discord servers. With Styz, you can automate tasks, moderate your server, and engage with your community in a variety of ways.
-
-#### Features
-
-* Customizable commands and responses
-* Automated moderation tools
-* Server management and configuration
-* Integration with other services and platforms
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=V1uk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=V1uk&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=V1uk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 -------------------
 
-### Styz Second Life Products
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-Styz offers a range of products and services for Second Life users, including:
-
-#### Nightclub
-
-* Customizable nightclub designs and layouts
-* Automation tools for DJs and event hosts
-* Integration with other Second Life services and platforms
-
-#### Auction
-
-* Automated auction system for buying and selling items
-* Customizable auction rules and settings
-* Integration with other Second Life services and platforms
-
-#### Other Products
-
-* Virtual event management tools
-* Customizable virtual goods and items
-* Integration with other Second Life services and platforms
-
--------------------
-
-### Success
-
-As a 23-year-old FullStack Developer, I have achieved significant success in my career, including:
-
-* Building a highly successful Discord bot that has been used by thousands of users
-* Creating a range of custom products and services for Second Life users
-* Developing a strong online presence and community through social media and GitHub
-
-I am proud of my achievements and am excited to continue working on new projects and products that will help me grow as a developer.
-
-### STATS 
-![V1uk's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1uk&show_icons=true&theme=tokyonight)
-
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=V1uk&icon=0&color=0)](https://visitcount.itsvg.in)
